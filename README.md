@@ -1,14 +1,13 @@
 ## Hi there 👋 I'm DanielSun
 
-- 🔭 I’m currently pursuing my **Master's degree** at the **School of Computer Science** at **Northwestern Polytechnical University** 🎓
-- 🌱 Currently, I am diving into the optimization of **recommendation system** models and exploring ways to accelerate their performance 🚀.
+- 🌱 Currently, I am diving into the optimization of PaddlePaddle and exploring ways to accelerate their performance 🚀.
 - 🤔 My research interests lie in:
-  - **GPU Acceleration** 💻⚡
-  - Sunway Taihulight 🌐💡
-  - **RDMA (Remote Direct Memory Access)** 🔗
-  - P4 Programming Language 🖥️🔧
-  - Operating System Kernel 🖱️🧠
-  - Data Center Networks 🌍💾
+  - **GPU Acceleration** 
+  - Sunway Taihulight 
+  - **RDMA (Remote Direct Memory Access)** 
+  - P4 Programming Language 
+  - Operating System Kernel 
+  - Data Center Networks 
 <!--
 **DanielSun11/DanielSun11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
